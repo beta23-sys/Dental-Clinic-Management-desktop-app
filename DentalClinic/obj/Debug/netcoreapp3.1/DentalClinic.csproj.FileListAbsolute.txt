@@ -1,0 +1,14 @@
+C:\Uni\COS20007\Projects\DentalClinic2\DentalClinic\DentalClinic\obj\Debug\netcoreapp3.1\DentalClinic.csproj.AssemblyReference.cache
+C:\Uni\COS20007\Projects\DentalClinic2\DentalClinic\DentalClinic\obj\Debug\netcoreapp3.1\DentalClinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Uni\COS20007\Projects\DentalClinic2\DentalClinic\DentalClinic\obj\Debug\netcoreapp3.1\DentalClinic.AssemblyInfoInputs.cache
+C:\Uni\COS20007\Projects\DentalClinic2\DentalClinic\DentalClinic\obj\Debug\netcoreapp3.1\DentalClinic.AssemblyInfo.cs
+C:\Uni\COS20007\Projects\DentalClinic2\DentalClinic\DentalClinic\obj\Debug\netcoreapp3.1\DentalClinic.csproj.CoreCompileInputs.cache
+C:\Uni\COS20007\Projects\DentalClinic2\DentalClinic\DentalClinic\bin\Debug\netcoreapp3.1\DentalClinic.exe
+C:\Uni\COS20007\Projects\DentalClinic2\DentalClinic\DentalClinic\bin\Debug\netcoreapp3.1\DentalClinic.deps.json
+C:\Uni\COS20007\Projects\DentalClinic2\DentalClinic\DentalClinic\bin\Debug\netcoreapp3.1\DentalClinic.runtimeconfig.json
+C:\Uni\COS20007\Projects\DentalClinic2\DentalClinic\DentalClinic\bin\Debug\netcoreapp3.1\DentalClinic.runtimeconfig.dev.json
+C:\Uni\COS20007\Projects\DentalClinic2\DentalClinic\DentalClinic\bin\Debug\netcoreapp3.1\DentalClinic.dll
+C:\Uni\COS20007\Projects\DentalClinic2\DentalClinic\DentalClinic\bin\Debug\netcoreapp3.1\DentalClinic.pdb
+C:\Uni\COS20007\Projects\DentalClinic2\DentalClinic\DentalClinic\obj\Debug\netcoreapp3.1\DentalClinic.dll
+C:\Uni\COS20007\Projects\DentalClinic2\DentalClinic\DentalClinic\obj\Debug\netcoreapp3.1\DentalClinic.pdb
+C:\Uni\COS20007\Projects\DentalClinic2\DentalClinic\DentalClinic\obj\Debug\netcoreapp3.1\DentalClinic.genruntimeconfig.cache
